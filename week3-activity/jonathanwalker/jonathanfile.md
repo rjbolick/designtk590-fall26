@@ -11,7 +11,7 @@ My top 3 ice cream flavors:
 - Cookies and Cream 
 - Tiramisu
 
-(but I think gelato is better)
+**(but I think gelato is better)**
 ---
 
 yay for markdown!
