@@ -1,12 +1,14 @@
 # Lorum Ipsum
 
-[https://www.boredbutton.com/]
+Text Text Text Text **Text** Text
+
+[Are you bored?] (https://www.boredbutton.com/)
 
 - Three
 - Fun facts
 - About me
 
-**This is bold text (hopefully)**
-
 ----------------------------------
+
+Are you having a good day? 
 
