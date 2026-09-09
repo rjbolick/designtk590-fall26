@@ -32,28 +32,9 @@ Before beginning an activity, update your local copy of `main`:
 git switch main
 git pull origin main
 ```
+### Submitting work
 
-## Contributing student work
-
-Unless an activity says otherwise, use this workflow:
-
-1. Create a branch named for the week and yourself:
-
-   ```bash
-   git switch -c week2/your-name
-   ```
-
-2. Create your own folder inside the activity's week directory:
-
-   ```text
-   week2/your-name/
-   ```
-
-3. Add only the files needed for your submission. Include a short `README.md` in your folder explaining what you made and how to view it.
-4. Commit your work, push your branch, and open a pull request into `main`.
-5. Title the pull request `Week 2: Your Name` and follow any additional directions in the activity brief.
-
-Please keep your pull request focused on your own submission. Do not edit another student's folder or shared course files unless the activity specifically asks you to do so.
+Please refer to the README for a given week for specific instructions.
 
 ### Pull request templates
 
@@ -75,6 +56,8 @@ These templates are adapted from Graphite's [Comprehensive Checklist: GitHub PR 
 - Check that your project works in the browser before submitting it.
 - Credit any code, images, typefaces, or other resources you did not create.
 - Treat classmates' work and feedback with care.
+- Do not commit to main
+- Always use PRs when possible
 
 ## Questions
 
